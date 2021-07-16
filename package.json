@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@electron/remote": "^1.1.0",
-    "ajv": "^8.0.5",
+    "ajv": "^8.6.2",
     "electron-reload": "^1.5.0",
     "nedb-promises": "^4.1.1"
   }
